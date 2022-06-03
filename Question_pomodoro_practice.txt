@@ -1,0 +1,9 @@
+operadores ternarios
+
+Funciones anonimas
+
+metodo map y join}
+
+que es iteración
+
+que es foreach
